@@ -22,5 +22,5 @@ if(guess === 'q'){
     console.log("ok, you quit!")
 }else{
     console.log("congrats you win!")
-console.log('you got it! it took you ${attempts} guesses')
+console.log(`you got it! it took you ${attempts} guesses`)
 }
